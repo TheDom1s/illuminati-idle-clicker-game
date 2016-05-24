@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\CsharpClickerGame\CsharpClickerGame\bin\Release\CsharpClickerGame.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\CsharpClickerGame\CsharpClickerGame\bin\Release\CsharpClickerGame.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\CsharpClickerGame\CsharpClickerGame\bin\Release\CsharpClickerGame.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\CsharpClickerGame\CsharpClickerGame\obj\Release\CsharpClickerGame.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\CsharpClickerGame\CsharpClickerGame\obj\Release\CsharpClickerGame.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\CsharpClickerGame\CsharpClickerGame\obj\Release\CsharpClickerGame.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\CsharpClickerGame\CsharpClickerGame\obj\Release\CsharpClickerGame.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\CsharpClickerGame\CsharpClickerGame\obj\Release\CsharpClickerGame.pdb
